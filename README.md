@@ -22,9 +22,9 @@
     <h1>링크 선택기</h1>
     <select id="linkSelect">
         <option value="">링크를 선택하세요</option>
-        <option value="https://example1.com">예제 링크 1</option>
-        <option value="https://example2.com">예제 링크 2</option>
-        <option value="https://example3.com">예제 링크 3</option>
+        <option value="https://open.kakao.com/o/gbmzcKLf">예제 링크 1</option>
+        <option value="https://open.kakao.com/o/gsAg6JLf">예제 링크 2</option>
+        <option value="https://m.youtube.com/@DropletOfficial0122">예제 링크 3</option>
     </select>
     <button id="goButton">이동</button>
 
